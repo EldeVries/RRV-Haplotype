@@ -1,0 +1,66 @@
+{
+  "title": "RVV Validation Run",
+  "basecalledPath": "fastq/pass",
+  "samples": [
+    {
+      "name": "20-05168-0033",
+      "description": "",
+      "barcodes": [ "barcode01" ]
+    },
+    {
+      "name": "20-01482-0023",
+      "description": "",
+      "barcodes": [ "barcode02" ]
+    },
+    {
+      "name": "20-01544-0003",
+      "description": "",
+      "barcodes": [ "barcode03" ]
+    },
+    {
+      "name": "20-01544-0004",
+      "description": "",
+      "barcodes": [ "barcode04" ]
+    },
+   {
+      "name": "22-00052-0034",
+      "description": "",
+      "barcodes": [ "barcode05" ]
+    },
+    {
+      "name": "21-00309-0024",
+      "description": "",
+      "barcodes": [ "barcode06" ]
+    },
+    {
+      "name": "20-05244-0010",
+      "description": "",
+      "barcodes": [ "barcode07" ]
+    },
+    {
+      "name": "20-05244-0009",
+      "description": "",
+      "barcodes": [ "barcode08" ]
+    },
+   {
+      "name": "21-00309-0026",
+      "description": "",
+      "barcodes": [ "barcode09" ]
+    },
+    {
+      "name": "22-00127-0032",
+      "description": "",
+      "barcodes": [ "barcode10" ]
+    },
+    {
+      "name": "ARBO012",
+      "description": "",
+      "barcodes": [ "barcode11" ]
+    },
+    {
+      "name": "Negative",
+      "description": "",
+      "barcodes": [ "barcode12" ]
+    }
+  ]
+}
